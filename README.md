@@ -1,5 +1,5 @@
 All classic games are created for the purpose of learning python. 
-All images and audio were created by AI tools or downloaded from https://pixabay.com/. 
+Images and audio are mainly created by AI tools or downloaded from https://pixabay.com/. 
 
 Game Lists
 1. Chinese Character Typing Practice Game (May 2025) - chityping.exe
